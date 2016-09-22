@@ -1,0 +1,42 @@
+.highlight {
+  background: #343434;
+  padding: 1em;
+  color: #ffffff;
+  margin: 1em 0 2em 0;
+  font-size: 1.2em; }
+  .highlight .c {
+    color: #c4c5c6;
+    font-style: italic; }
+  .highlight .err {
+    color: #b92626;
+    background-color: #e3d2d2; }
+  .highlight .nt {
+    color: #e48889; }
+  .highlight .na {
+    color: #eb944d; }
+  .highlight .s {
+    color: #74b99f; }
+  .highlight .s1 {
+    color: #74b99f; }
+  .highlight .si {
+    color: #74b99f; }
+  .highlight .mi {
+    color: #eb944d; }
+  .highlight .nb {
+    color: #ddca69; }
+  .highlight .nx {
+    color: #5fb1e0; }
+  .highlight .k {
+    color: #A09ED5; }
+  .highlight .kd {
+    color: #A09ED5; }
+
+/*
+    I've left the default code coloring theme below commented out.
+    If you're using a language I haven't tested, you can use the
+    colors below as a reference.  Inspecting the element that is
+    behaving stragely will give you the class, then you can add a
+    custom variable above.
+*/
+
+/*# sourceMappingURL=code-coloring.css.map */
